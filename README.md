@@ -1,5 +1,8 @@
 # temp-typescript-rtti-on-rollup-errors
 
+Ошибка исправлена!
+https://github.com/typescript-rtti/typescript-rtti/issues/46
+
 Start
 -----
 
